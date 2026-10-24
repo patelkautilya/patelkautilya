@@ -1,16 +1,34 @@
-## Hi there 👋
+# Kautilya Patel
 
-<!--
-**patelkautilya/patelkautilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business analysis and data analytics
 
-Here are some ideas to get you started:
+I build dashboards and reports to explain performance, investigate business questions and communicate practical next steps. This portfolio combines Power BI, Python data preparation, SQL reconciliation and clear reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/patelkautilya/) · [Writing](https://medium.com/@patelkautilya)
+
+## Featured Power BI case study
+
+### Financial performance: sales, profit and discounts
+
+[![Financial performance dashboard](https://raw.githubusercontent.com/patelkautilya/financial-performance-powerbi/main/visuals/dashboard-1.png)](https://github.com/patelkautilya/financial-performance-powerbi)
+
+Four Power BI report pages examine segment profitability, products, countries, discount patterns and a dedicated six-metric KPI dashboard in Microsoft's Financial Sample. Includes an editable PBIX, dashboard PDF, visual previews, DAX measures, Power Query, a findings report and independently reconciled Python/SQL calculations.
+
+**Key finding:** Enterprise generates 19.61M in sample sales while recording a 0.61M loss. The analysis separates revenue rankings from profitability and compares matching periods where year coverage differs.
+
+[Explore the project](https://github.com/patelkautilya/financial-performance-powerbi) · [View the report PDF](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/financial-performance.pdf) · [Read the findings](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/findings.md)
+
+## More dashboard and analysis work
+
+| Project | Focus | Tools and artifacts |
+| --- | --- | --- |
+| [Supermarket Sales Dashboard](https://github.com/patelkautilya/Supermarket_Sales_Dashboard) | Branch and retail sales reporting | Power BI, Python, PBIX, PDF and dashboard images |
+| [ASCEND Program Analytics](https://github.com/patelkautilya/ASCEND) | Participation, survey and exam reporting | Power BI dashboard designs, Python and Flask prototype |
+| [Instacart Analysis](https://github.com/patelkautilya/instacart-analysis) | Shopping behavior and product associations | Python notebooks and written analysis |
+
+## My reporting workflow
+
+Define the business question → inspect and prepare the source → document KPI definitions → build the dashboard → reconcile key results → communicate findings, limitations and proposed actions.
+
+Portfolio case studies distinguish sample-data findings from measured business outcomes. Recommendations are presented as proposed next steps unless implementation and impact have been demonstrated.
+
