@@ -6,7 +6,7 @@ I build dashboards and reports to explain performance, investigate business ques
 
 [LinkedIn](https://www.linkedin.com/in/patelkautilya/) · [Writing](https://medium.com/@patelkautilya)
 
-## Featured Power BI case study
+## Featured Power BI case studies
 
 ### Financial performance: sales, profit and discounts
 
@@ -17,6 +17,16 @@ Four Power BI report pages examine segment profitability, products, countries, d
 **Key finding:** Enterprise generates 19.61M in sample sales while recording a 0.61M loss. The analysis separates revenue rankings from profitability and compares matching periods where year coverage differs.
 
 [Explore the project](https://github.com/patelkautilya/financial-performance-powerbi) · [View the report PDF](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/financial-performance.pdf) · [Read the findings](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/findings.md)
+
+### Customer retention: churn and KPI analysis
+
+[![Customer retention dashboard](https://raw.githubusercontent.com/patelkautilya/customer-retention-powerbi/main/visuals/dashboard-1.png)](https://github.com/patelkautilya/customer-retention-powerbi)
+
+Three Power BI pages explore IBM's Telco Customer Churn sample with a six-metric KPI dashboard and comparisons by contract, tenure, payment method and internet service. Includes PBIX/PDF exports, Power Query, DAX, findings and reproducible Python/SQLite validation.
+
+**Key finding:** Month-to-month customers show 42.71% observed churn versus 2.83% for two-year contracts. The report treats this as an association to investigate, and distinguishes churned monthly-charge exposure from measured revenue loss.
+
+[Explore the project](https://github.com/patelkautilya/customer-retention-powerbi) · [View the report PDF](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/customer-retention.pdf) · [Read the findings](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/findings.md)
 
 ## More dashboard and analysis work
 
