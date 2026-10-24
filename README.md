@@ -20,9 +20,9 @@ Four Power BI report pages examine segment profitability, products, countries, d
 
 ### Customer retention: churn and KPI analysis
 
-[![Customer retention dashboard](https://raw.githubusercontent.com/patelkautilya/customer-retention-powerbi/main/visuals/dashboard-1.png)](https://github.com/patelkautilya/customer-retention-powerbi)
+[![Customer retention dashboard](https://raw.githubusercontent.com/patelkautilya/customer-retention-powerbi/main/visuals/dashboard-4.png)](https://github.com/patelkautilya/customer-retention-powerbi)
 
-Three Power BI pages explore IBM's Telco Customer Churn sample with a six-metric KPI dashboard and comparisons by contract, tenure, payment method and internet service. Includes PBIX/PDF exports, Power Query, DAX, findings and reproducible Python/SQLite validation.
+Four Power BI pages explore IBM's Telco Customer Churn sample with a six-metric KPI dashboard, a drillable interactive explorer, linked bar/donut/treemap charts, page navigation and comparisons by contract, tenure, payment method and internet service. Includes PBIX/PDF exports, Power Query, DAX, findings and reproducible Python/SQLite validation.
 
 **Key finding:** Month-to-month customers show 42.71% observed churn versus 2.83% for two-year contracts. The report treats this as an association to investigate, and distinguishes churned monthly-charge exposure from measured revenue loss.
 
