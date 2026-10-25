@@ -28,6 +28,16 @@ Four Power BI pages explore IBM's Telco Customer Churn sample with a six-metric 
 
 [Explore the project](https://github.com/patelkautilya/customer-retention-powerbi) · [View the report PDF](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/customer-retention.pdf) · [Read the findings](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/findings.md)
 
+### Bike-sharing demand: mobility operations
+
+[![Peak-hour operations dashboard](https://raw.githubusercontent.com/patelkautilya/bike-demand-powerbi/main/visuals/dashboard-2.png)](https://github.com/patelkautilya/bike-demand-powerbi)
+
+Three interactive Power BI pages explore historical 2011–2012 bike-sharing demand with Year → Month → Date drill-down, KPI cards, year filters, hourly demand profiles, a weekday heatmap and weather/rider-mix comparisons. Includes editable PBIX, PDF, Power Query, DAX, source attribution and reproducible Python/SQLite reconciliation.
+
+**Key finding:** Working days peak at 17:00, while non-working days peak at 13:00. Rates use observed hours, with missing records and the tiny heavy-weather sample explicitly documented.
+
+[Explore the project](https://github.com/patelkautilya/bike-demand-powerbi) · [View the report PDF](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/bike-demand.pdf) · [Read the findings](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/findings.md)
+
 ## More dashboard and analysis work
 
 | Project | Focus | Tools and artifacts |
@@ -41,4 +51,3 @@ Four Power BI pages explore IBM's Telco Customer Churn sample with a six-metric 
 Define the business question → inspect and prepare the source → document KPI definitions → build the dashboard → reconcile key results → communicate findings, limitations and proposed actions.
 
 Portfolio case studies distinguish sample-data findings from measured business outcomes. Recommendations are presented as proposed next steps unless implementation and impact have been demonstrated.
-
