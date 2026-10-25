@@ -38,6 +38,16 @@ Three interactive Power BI pages explore historical 2011–2012 bike-sharing dem
 
 [Explore the project](https://github.com/patelkautilya/bike-demand-powerbi) · [View the report PDF](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/bike-demand.pdf) · [Read the findings](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/findings.md)
 
+### Bank marketing: campaign conversion
+
+[![Contact strategy Power BI dashboard](https://raw.githubusercontent.com/patelkautilya/bank-marketing-powerbi/main/visuals/dashboard-2.png)](https://github.com/patelkautilya/bank-marketing-powerbi)
+
+Three interactive Power BI pages analyze the UCI Bank Marketing campaign with KPI cards, channel and contact-count comparisons, a conditional-format matrix, grouped bars, a donut chart, and a pinned live KPI dashboard. Includes the editable PBIX, PDF, source data, Power Query, DAX, a written findings report and Python/SQLite reconciliation.
+
+**Key finding:** The historical sample contains 45,211 records and 5,289 subscriptions (11.70%). The observed subscription rate is 14.92% for cellular versus 4.07% for records with an unknown channel; the report documents the data and cohort limits before drawing operational conclusions.
+
+[Explore the project](https://github.com/patelkautilya/bank-marketing-powerbi) · [View the report PDF](https://github.com/patelkautilya/bank-marketing-powerbi/blob/main/reports/bank-marketing.pdf) · [Read the findings](https://github.com/patelkautilya/bank-marketing-powerbi/blob/main/reports/findings.md)
+
 ## More dashboard and analysis work
 
 | Project | Focus | Tools and artifacts |
@@ -51,3 +61,4 @@ Three interactive Power BI pages explore historical 2011–2012 bike-sharing dem
 Define the business question → inspect and prepare the source → document KPI definitions → build the dashboard → reconcile key results → communicate findings, limitations and proposed actions.
 
 Portfolio case studies distinguish sample-data findings from measured business outcomes. Recommendations are presented as proposed next steps unless implementation and impact have been demonstrated.
+
