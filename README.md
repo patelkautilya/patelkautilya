@@ -1,64 +1,74 @@
-# Kautilya Patel
+<div align="center">
+  <img src="assets/analytics-banner.svg" alt="Illustrated analytics dashboard with KPI cards and charts" width="100%" />
 
-### Business analysis and data analytics
+  # Kautilya (Kay) Patel
 
-I build dashboards and reports to explain performance, investigate business questions and communicate practical next steps. This portfolio combines Power BI, Python data preparation, SQL reconciliation and clear reporting.
+  **Data Analyst · Business Intelligence · Dashboard & KPI Reporting**
 
-[LinkedIn](https://www.linkedin.com/in/patelkautilya/) · [Writing](https://medium.com/@patelkautilya)
+  I turn messy business data into reliable metrics, interactive dashboards, and reports people can use to make decisions.
+
+  [LinkedIn](https://www.linkedin.com/in/patelkautilya/) · [Writing](https://medium.com/@patelkautilya) · [Power BI projects](#featured-power-bi-case-studies)
+</div>
+
+---
+
+## About me
+
+I am a data analyst with **4+ years of experience** across operational and business reporting. My work spans the full reporting cycle: gathering requirements, preparing and reconciling data, defining KPIs, building Power BI and Tableau dashboards, and explaining results to stakeholders.
+
+At **Siemens**, I have worked with 50K+ operational and business records, built BI dashboards and reporting models, and automated data preparation and validation. My resume reports a **20% reduction in reporting effort** and a **15% improvement in data accuracy**. Previously at **Mphasis**, I analyzed 30K+ business records and developed reusable SQL reporting queries that reduced manual report preparation time by **18%**.
+
+I hold a **Master's in Data Analytics** from Northeastern University and a **Bachelor's in Information Technology** from Gujarat Technological University. My certifications include **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** and **Tableau Certified Data Analyst**.
+
+### What I bring to an analytics project
+
+| Business question | How I approach it | Typical deliverable |
+| --- | --- | --- |
+| What changed, and where? | Define comparable periods and KPIs; segment trends and variance | Executive KPI dashboard and concise findings |
+| Can we trust the number? | Profile source data, document exclusions, reconcile totals | Data-quality checks and reproducible calculations |
+| What should we investigate next? | Connect patterns to business context without overstating causation | Stakeholder-ready report with limits and next steps |
 
 ## Featured Power BI case studies
 
-### Financial performance: sales, profit and discounts
+Each project includes metric definitions, interactive report design, source attribution, and a written explanation of findings and limits. The previews link to the full repositories.
 
-[![Financial performance dashboard](https://raw.githubusercontent.com/patelkautilya/financial-performance-powerbi/main/visuals/dashboard-1.png)](https://github.com/patelkautilya/financial-performance-powerbi)
+| Financial performance | Customer retention |
+| --- | --- |
+| <a href="https://github.com/patelkautilya/financial-performance-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/financial-performance-powerbi/main/visuals/dashboard-1.png" alt="Financial performance Power BI dashboard preview" width="100%" /></a> | <a href="https://github.com/patelkautilya/customer-retention-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/customer-retention-powerbi/main/visuals/dashboard-4.png" alt="Customer retention Power BI dashboard preview" width="100%" /></a> |
+| **Question:** Which segments and discounts support profitable sales? Four report pages and a six-metric KPI dashboard compare sales, profit, products, and geography. **Finding:** Enterprise leads sample sales at 19.61M while recording a 0.61M loss. [Project](https://github.com/patelkautilya/financial-performance-powerbi) · [PDF](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/financial-performance.pdf) · [Findings](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/findings.md) | **Question:** How does observed churn differ across customer segments? Four pages combine KPI cards, drillable views, and linked visuals. **Finding:** Month-to-month contracts show 42.71% observed churn versus 2.83% for two-year contracts; this is an association, not a causal estimate. [Project](https://github.com/patelkautilya/customer-retention-powerbi) · [PDF](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/customer-retention.pdf) · [Findings](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/findings.md) |
 
-Four Power BI report pages examine segment profitability, products, countries, discount patterns and a dedicated six-metric KPI dashboard in Microsoft's Financial Sample. Includes an editable PBIX, dashboard PDF, visual previews, DAX measures, Power Query, a findings report and independently reconciled Python/SQL calculations.
+| Bike-sharing demand | Bank marketing |
+| --- | --- |
+| <a href="https://github.com/patelkautilya/bike-demand-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/bike-demand-powerbi/main/visuals/dashboard-2.png" alt="Bike-sharing demand Power BI dashboard preview" width="100%" /></a> | <a href="https://github.com/patelkautilya/bank-marketing-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/bank-marketing-powerbi/main/visuals/dashboard-2.png" alt="Bank marketing Power BI dashboard preview" width="100%" /></a> |
+| **Question:** How do hour, day type, and weather relate to bike demand? Three pages use Year → Month → Date drill-down, KPI cards, an hourly profile, and a weekday heatmap. **Finding:** Working days peak at 17:00; non-working days peak at 13:00. [Project](https://github.com/patelkautilya/bike-demand-powerbi) · [PDF](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/bike-demand.pdf) · [Findings](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/findings.md) | **Question:** Which contact patterns align with campaign subscriptions? Three pages and a live KPI dashboard compare channel and contact count. **Finding:** The historical sample has 45,211 records and 5,289 subscriptions (11.70%); channel comparisons include cohort limits. [Project](https://github.com/patelkautilya/bank-marketing-powerbi) · [PDF](https://github.com/patelkautilya/bank-marketing-powerbi/blob/main/reports/bank-marketing.pdf) · [Findings](https://github.com/patelkautilya/bank-marketing-powerbi/blob/main/reports/findings.md) |
 
-**Key finding:** Enterprise generates 19.61M in sample sales while recording a 0.61M loss. The analysis separates revenue rankings from profitability and compares matching periods where year coverage differs.
+## Skills in practice
 
-[Explore the project](https://github.com/patelkautilya/financial-performance-powerbi) · [View the report PDF](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/financial-performance.pdf) · [Read the findings](https://github.com/patelkautilya/financial-performance-powerbi/blob/main/reports/findings.md)
+| Area | Tools and methods |
+| --- | --- |
+| **Dashboards & reporting** | Power BI, Tableau, Excel, Looker; KPI design, DAX, Power Query, interactive visuals, stakeholder reporting |
+| **Analysis & validation** | SQL/T-SQL, Python, Pandas, NumPy, statistical and trend analysis, data profiling, reconciliation, root-cause analysis |
+| **Data preparation** | ETL/ELT, data modeling, SQL Server, PostgreSQL, MySQL, Snowflake, BigQuery, Databricks, Azure and Microsoft Fabric |
+| **Delivery & automation** | Power Automate, Python, Git/GitHub, Jupyter, documentation, requirements gathering, Agile collaboration |
 
-### Customer retention: churn and KPI analysis
+## More analysis and dashboard work
 
-[![Customer retention dashboard](https://raw.githubusercontent.com/patelkautilya/customer-retention-powerbi/main/visuals/dashboard-4.png)](https://github.com/patelkautilya/customer-retention-powerbi)
+| Project | Focus |
+| --- | --- |
+| [Supermarket Sales Dashboard](https://github.com/patelkautilya/Supermarket_Sales_Dashboard) | Retail branch performance with Power BI, Python, PBIX, PDF, and dashboard images |
+| [ASCEND Program Analytics](https://github.com/patelkautilya/ASCEND) | Participation, survey, and exam reporting with dashboard designs and a Python/Flask prototype |
+| [Instacart Analysis](https://github.com/patelkautilya/instacart-analysis) | Shopping behavior and product-association analysis in Python notebooks |
 
-Four Power BI pages explore IBM's Telco Customer Churn sample with a six-metric KPI dashboard, a drillable interactive explorer, linked bar/donut/treemap charts, page navigation and comparisons by contract, tenure, payment method and internet service. Includes PBIX/PDF exports, Power Query, DAX, findings and reproducible Python/SQLite validation.
+## How I report a result
 
-**Key finding:** Month-to-month customers show 42.71% observed churn versus 2.83% for two-year contracts. The report treats this as an association to investigate, and distinguishes churned monthly-charge exposure from measured revenue loss.
+**Business question → source review → metric definition → data preparation → dashboard → independent reconciliation → findings and limits.**
 
-[Explore the project](https://github.com/patelkautilya/customer-retention-powerbi) · [View the report PDF](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/customer-retention.pdf) · [Read the findings](https://github.com/patelkautilya/customer-retention-powerbi/blob/main/reports/findings.md)
+The portfolio projects use public or sample datasets. I distinguish descriptive patterns from causal claims, document missing data and exclusions, and treat recommendations as proposals until an outcome has been measured.
 
-### Bike-sharing demand: mobility operations
+---
 
-[![Peak-hour operations dashboard](https://raw.githubusercontent.com/patelkautilya/bike-demand-powerbi/main/visuals/dashboard-2.png)](https://github.com/patelkautilya/bike-demand-powerbi)
-
-Three interactive Power BI pages explore historical 2011–2012 bike-sharing demand with Year → Month → Date drill-down, KPI cards, year filters, hourly demand profiles, a weekday heatmap and weather/rider-mix comparisons. Includes editable PBIX, PDF, Power Query, DAX, source attribution and reproducible Python/SQLite reconciliation.
-
-**Key finding:** Working days peak at 17:00, while non-working days peak at 13:00. Rates use observed hours, with missing records and the tiny heavy-weather sample explicitly documented.
-
-[Explore the project](https://github.com/patelkautilya/bike-demand-powerbi) · [View the report PDF](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/bike-demand.pdf) · [Read the findings](https://github.com/patelkautilya/bike-demand-powerbi/blob/main/reports/findings.md)
-
-### Bank marketing: campaign conversion
-
-[![Contact strategy Power BI dashboard](https://raw.githubusercontent.com/patelkautilya/bank-marketing-powerbi/main/visuals/dashboard-2.png)](https://github.com/patelkautilya/bank-marketing-powerbi)
-
-Three interactive Power BI pages analyze the UCI Bank Marketing campaign with KPI cards, channel and contact-count comparisons, a conditional-format matrix, grouped bars, a donut chart, and a pinned live KPI dashboard. Includes the editable PBIX, PDF, source data, Power Query, DAX, a written findings report and Python/SQLite reconciliation.
-
-**Key finding:** The historical sample contains 45,211 records and 5,289 subscriptions (11.70%). The observed subscription rate is 14.92% for cellular versus 4.07% for records with an unknown channel; the report documents the data and cohort limits before drawing operational conclusions.
-
-[Explore the project](https://github.com/patelkautilya/bank-marketing-powerbi) · [View the report PDF](https://github.com/patelkautilya/bank-marketing-powerbi/blob/main/reports/bank-marketing.pdf) · [Read the findings](https://github.com/patelkautilya/bank-marketing-powerbi/blob/main/reports/findings.md)
-
-## More dashboard and analysis work
-
-| Project | Focus | Tools and artifacts |
-| --- | --- | --- |
-| [Supermarket Sales Dashboard](https://github.com/patelkautilya/Supermarket_Sales_Dashboard) | Branch and retail sales reporting | Power BI, Python, PBIX, PDF and dashboard images |
-| [ASCEND Program Analytics](https://github.com/patelkautilya/ASCEND) | Participation, survey and exam reporting | Power BI dashboard designs, Python and Flask prototype |
-| [Instacart Analysis](https://github.com/patelkautilya/instacart-analysis) | Shopping behavior and product associations | Python notebooks and written analysis |
-
-## My reporting workflow
-
-Define the business question → inspect and prepare the source → document KPI definitions → build the dashboard → reconcile key results → communicate findings, limitations and proposed actions.
-
-Portfolio case studies distinguish sample-data findings from measured business outcomes. Recommendations are presented as proposed next steps unless implementation and impact have been demonstrated.
+<div align="center">
+  <strong>Interested in dashboards, reporting, or analytics collaboration?</strong><br />
+  <a href="https://www.linkedin.com/in/patelkautilya/">Connect on LinkedIn</a> · <a href="https://medium.com/@patelkautilya">Read my writing</a>
+</div>
 
