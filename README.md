@@ -48,6 +48,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How did catalog sale value change across complete months, products, and known-customer groups? Three report pages use KPI cards, linked selections, product ranking, and customer frequency and recency. **Finding:** November has the highest complete-month catalog sale value at £1.458m; the UK contributes 84.12% of the period total. The analysis separates positive catalog sales from net revenue and documents missing customer IDs. [Project](https://github.com/patelkautilya/online-retail-powerbi) · [PDF](https://github.com/patelkautilya/online-retail-powerbi/blob/main/visuals/online-retail-report.pdf) · [Findings](https://github.com/patelkautilya/online-retail-powerbi/blob/main/reports/findings.md)
 
+### Manufacturing reliability | Maintenance KPIs & source-label audit
+
+<a href="https://github.com/patelkautilya/manufacturing-reliability-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/manufacturing-reliability-powerbi/main/visuals/page-4.png" alt="Manufacturing reliability Power BI failure-mode dashboard preview" width="100%" /></a>
+
+**Question:** How do labeled failures vary by product variant, tool wear, and failure mode? Four Power BI pages show maintenance KPIs, failure-rate comparisons, and a color-coded mode breakdown. **Finding:** The synthetic sample has 339 failures in 10,000 cycles (3.39%) and 27 disagreements between the overall failure label and mode flags. [Project](https://github.com/patelkautilya/manufacturing-reliability-powerbi) · [PDF](https://github.com/patelkautilya/manufacturing-reliability-powerbi/blob/main/visuals/manufacturing-reliability-report.pdf) · [Findings](https://github.com/patelkautilya/manufacturing-reliability-powerbi/blob/main/reports/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
@@ -77,3 +83,4 @@ The portfolio projects use public or sample datasets. I distinguish descriptive 
   <strong>Interested in dashboards, reporting, or analytics collaboration?</strong><br />
   <a href="https://www.linkedin.com/in/patelkautilya/">Connect on LinkedIn</a> · <a href="https://medium.com/@patelkautilya">Read my writing</a>
 </div>
+
