@@ -54,6 +54,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How do labeled failures vary by product variant, tool wear, and failure mode? Four Power BI pages show maintenance KPIs, failure-rate comparisons, and a color-coded mode breakdown. **Finding:** The synthetic sample has 339 failures in 10,000 cycles (3.39%) and 27 disagreements between the overall failure label and mode flags. [Project](https://github.com/patelkautilya/manufacturing-reliability-powerbi) · [PDF](https://github.com/patelkautilya/manufacturing-reliability-powerbi/blob/main/visuals/manufacturing-reliability-report.pdf) · [Findings](https://github.com/patelkautilya/manufacturing-reliability-powerbi/blob/main/reports/FINDINGS.md)
 
+### Home energy | Operations & load profile
+
+<a href="https://github.com/patelkautilya/home-energy-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/home-energy-powerbi/main/visuals/page-1.png" alt="Home energy Power BI KPI dashboard and hourly load profile" width="100%" /></a>
+
+**Question:** When is appliance demand highest, and how do calendar and day type change the picture? Three pages combine metered-energy KPIs, an hourly profile, Year → Quarter → Month → Day drill, a color-coded energy mix, and a Day Type slicer tested against the source totals. **Finding:** The 19,735 ten-minute observations contain 1,928.01 kWh of appliance energy; the mean appliance reading peaks at 18:00 on complete days. [Project](https://github.com/patelkautilya/home-energy-powerbi) · [PDF](https://github.com/patelkautilya/home-energy-powerbi/blob/main/visuals/home-energy-report.pdf) · [Findings](https://github.com/patelkautilya/home-energy-powerbi/blob/main/reports/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
