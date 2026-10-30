@@ -7,7 +7,7 @@
 
   I turn messy business data into reliable metrics, interactive dashboards, and reports people can use to make decisions.
 
-  [LinkedIn](https://www.linkedin.com/in/patelkautilya/) · [Writing](https://medium.com/@patelkautilya) · [Power BI projects](#featured-power-bi-case-studies)
+  [Portfolio website](https://kay-patel-analytics-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/patelkautilya/) · [Writing](https://medium.com/@patelkautilya) · [Power BI projects](#featured-power-bi-case-studies)
 </div>
 
 ---
