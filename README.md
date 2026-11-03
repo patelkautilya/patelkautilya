@@ -60,6 +60,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** When is appliance demand highest, and how do calendar and day type change the picture? Three report pages combine metered-energy KPIs, an hourly profile, Year → Quarter → Month → Day drill, a color-coded energy mix, and a Day Type slicer tested against the source totals. A separate Power BI dashboard pins the KPI tile. **Finding:** The 19,735 ten-minute observations contain 1,928.01 kWh of appliance energy; the mean appliance reading peaks at 18:00 on complete days. [Project](https://github.com/patelkautilya/home-energy-powerbi) · [Dashboard](https://app.powerbi.com/groups/me/dashboards/86fd84c8-871f-44c1-a9b8-7ca7b63609eb) · [PDF](https://github.com/patelkautilya/home-energy-powerbi/blob/main/visuals/home-energy-report.pdf) · [Findings](https://github.com/patelkautilya/home-energy-powerbi/blob/main/reports/FINDINGS.md)
 
+### Chicago food inspections | Outcome review
+
+<a href="https://github.com/patelkautilya/chicago-food-inspections-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/chicago-food-inspections-powerbi/main/visuals/kpi-overview.png" alt="Chicago food inspections Power BI KPI overview with a monthly trend and inspection-group comparison" width="100%" /></a>
+
+**Question:** How do recorded food-inspection failure rates vary over time and across inspection pathways while keeping the denominator clear? Two Power BI pages show four KPIs, a monthly trend, inspection-group and facility comparisons, an outcome mix, and risk, year, and facility filters. **Finding:** 6,872 of 32,055 outcome-eligible inspections failed (**21.44%**) in the 2024–2025 extract; 6,378 other-result records are reported separately. [Project](https://github.com/patelkautilya/chicago-food-inspections-powerbi) · [Previews](https://github.com/patelkautilya/chicago-food-inspections-powerbi/tree/main/visuals) · [Findings](https://github.com/patelkautilya/chicago-food-inspections-powerbi/blob/main/reports/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
