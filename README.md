@@ -72,6 +72,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How does reported building energy-use intensity vary by year, building type, and neighborhood? Two Power BI pages show 2025 KPIs, a year trend, cross-filtering, and a Building Type → Neighborhood drill path. **Finding:** The compliant-record median site EUI was **34.6 kBtu/sq ft** in 2025, versus 35.1 in 2024. In a matched set of 3,190 compliant buildings with positive EUI in both years, the median building-level change was −0.5 kBtu/sq ft; this does not establish a cause. [Project](https://github.com/patelkautilya/seattle-building-energy-powerbi) · [PDF](https://github.com/patelkautilya/seattle-building-energy-powerbi/blob/main/reports/seattle-building-energy-report.pdf) · [Findings](https://github.com/patelkautilya/seattle-building-energy-powerbi/blob/main/reports/FINDINGS.md)
 
+### NYC collision safety | KPI & borough review
+
+<a href="https://github.com/patelkautilya/nyc-collision-safety-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/nyc-collision-safety-powerbi/main/visuals/nyc-collision-safety-1.png" alt="NYC collision safety Power BI KPI dashboard with borough and reported-factor visuals" width="100%" /></a>
+
+**Question:** How did reported crashes and injury outcomes change between 2024 and 2025, and where do reported counts concentrate? Two Power BI pages show four 2025 KPIs, a year filter, borough and reported-factor views, monthly trends, and a borough → time-band drill path. **Finding:** The extract contains **85,559 crashes and 49,641 injured persons in 2025**, versus 91,316 and 54,030 in 2024. These are preliminary reported counts, not exposure-adjusted risk; 18.75% of records have no borough. [Project](https://github.com/patelkautilya/nyc-collision-safety-powerbi) · [PDF](https://github.com/patelkautilya/nyc-collision-safety-powerbi/blob/main/reports/NYC-Collision-Safety-Dashboard.pdf) · [Findings](https://github.com/patelkautilya/nyc-collision-safety-powerbi/blob/main/reports/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
