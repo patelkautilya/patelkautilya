@@ -84,6 +84,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How do actionable 311 request volume and observed completion vary across service groups and ZIP areas? Two Power BI pages include a 2025 KPI dashboard, year slicer, monthly trend, weighted seven-day completion measure, and Service Group → ZIP Group drill. **Finding:** The 2025 cohort has **233,365 actionable requests**, with **42.56% closed within seven days**. Information requests are excluded; these are observed completion shares, not official SLA results. [Project](https://github.com/patelkautilya/philly-311-service-operations-powerbi) · [PDF](https://github.com/patelkautilya/philly-311-service-operations-powerbi/blob/main/reports/philly-311-powerbi-report.pdf) · [Findings](https://github.com/patelkautilya/philly-311-service-operations-powerbi/blob/main/reports/FINDINGS.md)
 
+### Global development pulse | World Bank indicators
+
+<a href="https://github.com/patelkautilya/global-development-pulse-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/global-development-pulse-powerbi/main/global-development-1.png" alt="World Bank development indicators Power BI dashboard with 2024 median KPIs, regional Internet access, and country scatter plot" width="100%" /></a>
+
+**Question:** How do economic, health, digital-access, and labor indicators vary across country economies? Two Power BI pages show four 2024 median KPIs, year and income-group filters, a Region → Country drill chart, a colored country scatter plot, and 2020–2024 Internet-use trends. **Finding:** Median Internet use across the 182 economies with 2024 values is **82.10%**; Sub-Saharan Africa's 45 available economies have a **36.80%** median. These are unweighted country medians, not population estimates. [Project](https://github.com/patelkautilya/global-development-pulse-powerbi) · [PDF](https://github.com/patelkautilya/global-development-pulse-powerbi/blob/main/global-development-powerbi-report.pdf) · [Findings](https://github.com/patelkautilya/global-development-pulse-powerbi/blob/main/reports/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
