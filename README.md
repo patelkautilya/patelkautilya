@@ -102,6 +102,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How did state unemployment rates vary across 2024–2025, and how should a missing month be handled? Two Power BI pages show KPI cards, a state slicer, time filters, a year → quarter → month hierarchy, and state comparisons. **Finding:** The median of the 51 state/DC rates in December 2025 was **4.2%**; all 51 October 2025 observations were unavailable in the BLS series and remain blank. [Project](https://github.com/patelkautilya/us-state-labor-market-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/me/reports/2b5f224a-1ae8-430a-a7f1-24591afa103e/53ffa3f96377003a04ec?experience=power-bi) · [PDF](https://github.com/patelkautilya/us-state-labor-market-powerbi/blob/main/us-state-labor-market-report.pdf)
 
+### Three U.S. rivers | USGS daily streamflow
+
+<a href="https://github.com/patelkautilya/three-rivers-streamflow-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/three-rivers-streamflow-powerbi/main/dashboard_overview.png" alt="USGS three-river Power BI dashboard with median discharge KPI, site comparison, monthly trend, and gauge filters" width="100%" /></a>
+
+**Question:** How do 2024–2025 daily mean discharge patterns compare at three named USGS gauges? Two Power BI pages show a median-discharge KPI, monthly trend, gauge and year controls, site-specific above-p90 day composition, and data-quality qualifiers. **Finding:** The validated panel has **2,193 site-days**; days strictly above each gauge's two-year p90 number **73** at the Potomac, **73** at the Mississippi, and **56** at the Colorado. These are descriptive sample thresholds, not flood alerts. [Project](https://github.com/patelkautilya/three-rivers-streamflow-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/6240d432-1b9b-4ade-9511-70aed291254d/ee4457522652240e0d70?experience=power-bi) · [PDF](https://github.com/patelkautilya/three-rivers-streamflow-powerbi/blob/main/three_rivers_streamflow_report.pdf)
+
 ## Skills in practice
 
 | Area | Tools and methods |
