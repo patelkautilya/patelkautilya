@@ -90,6 +90,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How do economic, health, digital-access, and labor indicators vary across country economies? Two Power BI pages show four 2024 median KPIs, year and income-group filters, a Region → Country drill chart, a colored country scatter plot, and 2020–2024 Internet-use trends. **Finding:** Median Internet use across the 182 economies with 2024 values is **82.10%**; Sub-Saharan Africa's 45 available economies have a **36.80%** median. These are unweighted country medians, not population estimates. [Project](https://github.com/patelkautilya/global-development-pulse-powerbi) · [PDF](https://github.com/patelkautilya/global-development-pulse-powerbi/blob/main/global-development-powerbi-report.pdf) · [Findings](https://github.com/patelkautilya/global-development-pulse-powerbi/blob/main/reports/FINDINGS.md)
 
+### Global earthquake activity | USGS ComCat
+
+<a href="https://github.com/patelkautilya/global-earthquake-activity-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/global-earthquake-activity-powerbi/main/earthquake-final-1.png" alt="USGS earthquake Power BI dashboard with magnitude KPIs, monthly trend, and interactive filters" width="100%" /></a>
+
+**Question:** How did recorded magnitude 5+ earthquake activity vary by month, magnitude, and depth in 2024–2025? Two Power BI pages combine KPI cards, magnitude and year filters, a drillable monthly trend, depth bands, and a global event map. **Finding:** The USGS snapshot contains **3,636 unique M5+ events**, including **26 M7+ events**; July 2025 has the highest monthly count (**413**). These are descriptive counts from the queried catalog, not earthquake forecasts. [Project](https://github.com/patelkautilya/global-earthquake-activity-powerbi) · [Interactive report](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/f5d7813e-c802-4dcf-ba0d-9a195ac525c2/92b72c5f08282bbbb3aa?experience=power-bi) · [PDF](https://github.com/patelkautilya/global-earthquake-activity-powerbi/blob/main/global-earthquake-powerbi-report.pdf)
+
 ## Skills in practice
 
 | Area | Tools and methods |
