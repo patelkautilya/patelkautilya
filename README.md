@@ -96,6 +96,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How did recorded magnitude 5+ earthquake activity vary by month, magnitude, and depth in 2024–2025? Two Power BI pages combine KPI cards, magnitude and year filters, a drillable monthly trend, depth bands, and a global event map. **Finding:** The USGS snapshot contains **3,636 unique M5+ events**, including **26 M7+ events**; July 2025 has the highest monthly count (**413**). These are descriptive counts from the queried catalog, not earthquake forecasts. [Project](https://github.com/patelkautilya/global-earthquake-activity-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/f5d7813e-c802-4dcf-ba0d-9a195ac525c2/92b72c5f08282bbbb3aa?experience=power-bi) · [PDF](https://github.com/patelkautilya/global-earthquake-activity-powerbi/blob/main/global-earthquake-powerbi-report.pdf)
 
+### U.S. state labor market | KPI & data-quality review
+
+<a href="https://github.com/patelkautilya/us-state-labor-market-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/us-state-labor-market-powerbi/main/labor-dashboard-1.png" alt="BLS state labor market Power BI dashboard with unemployment-rate KPIs, state slicer, and monthly trend" width="100%" /></a>
+
+**Question:** How did state unemployment rates vary across 2024–2025, and how should a missing month be handled? Two Power BI pages show KPI cards, a state slicer, time filters, a year → quarter → month hierarchy, and state comparisons. **Finding:** The median of the 51 state/DC rates in December 2025 was **4.2%**; all 51 October 2025 observations were unavailable in the BLS series and remain blank. [Project](https://github.com/patelkautilya/us-state-labor-market-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/me/reports/2b5f224a-1ae8-430a-a7f1-24591afa103e/53ffa3f96377003a04ec?experience=power-bi) · [PDF](https://github.com/patelkautilya/us-state-labor-market-powerbi/blob/main/us-state-labor-market-report.pdf)
+
 ## Skills in practice
 
 | Area | Tools and methods |
