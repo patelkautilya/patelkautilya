@@ -108,6 +108,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How do 2024–2025 daily mean discharge patterns compare at three named USGS gauges? Two Power BI pages show a median-discharge KPI, monthly trend, gauge and year controls, site-specific above-p90 day composition, and data-quality qualifiers. **Finding:** The validated panel has **2,193 site-days**; days strictly above each gauge's two-year p90 number **73** at the Potomac, **73** at the Mississippi, and **56** at the Colorado. These are descriptive sample thresholds, not flood alerts. [Project](https://github.com/patelkautilya/three-rivers-streamflow-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/6240d432-1b9b-4ade-9511-70aed291254d/ee4457522652240e0d70?experience=power-bi) · [PDF](https://github.com/patelkautilya/three-rivers-streamflow-powerbi/blob/main/three_rivers_streamflow_report.pdf)
 
+### U.S. county rental cost burden | 2024 ACS
+
+<a href="https://github.com/patelkautilya/us-county-rent-burden-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/us-county-rent-burden-powerbi/main/dashboard-preview-1.png" alt="2024 ACS county rent-burden Power BI dashboard with burden KPIs, a state comparison, and county scatter plot" width="100%" /></a>
+
+**Question:** How does the estimated share of renters spending 30% or more of income on gross rent vary across counties with published 2024 ACS 1-year estimates? Two report pages combine county-median KPIs, a state selector, a county scatter plot, and a sortable county explorer. **Finding:** Across **855 covered counties**, the median county burden estimate is **50.15%**; pooling the covered counties' numerators and calculable denominators yields **52.55%**. These are different summaries of a limited county panel, not a national rate. [Project](https://github.com/patelkautilya/us-county-rent-burden-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/c343f3cf-10f5-4df1-ab4b-17008f3050ee/689ae9f8380962dcd938?experience=power-bi) · [PDF](https://github.com/patelkautilya/us-county-rent-burden-powerbi/blob/main/US-County-Rent-Burden-2024-ACS.pdf) · [Findings](https://github.com/patelkautilya/us-county-rent-burden-powerbi/blob/main/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
