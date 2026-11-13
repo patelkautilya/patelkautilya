@@ -126,6 +126,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How did published credit-card complaint volume, issue mix, and company-response categories change in 2024–2025? Two Power BI pages include year and state filters, a monthly trend, issue drill-through, and sortable detail with weighted timely-response shares. **Finding:** The validated extract contains **165,967 published complaints**; 2025 has 89,978 versus 75,989 in 2024, and 99.71% carry a timely-response flag. These are published-record counts, not consumer risk rates. [Project](https://github.com/patelkautilya/cfpb-credit-card-complaints-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/f791f1ac-46a9-4e80-b004-5db304148266/0c4754ff44052a6b98c3?experience=power-bi) · [PDF](https://github.com/patelkautilya/cfpb-credit-card-complaints-powerbi/blob/main/CFPB_Credit_Card_Complaints_Report.pdf) · [Findings](https://github.com/patelkautilya/cfpb-credit-card-complaints-powerbi/blob/main/FINDINGS.md)
 
+### CTA 'L' station ridership | Station and day-type review
+
+<a href="https://github.com/patelkautilya/cta-station-ridership-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/cta-station-ridership-powerbi/main/cta-report-preview-1.png" alt="CTA station ridership Power BI overview with entry and station-day KPIs, monthly trend, day-type mix, and filters" width="100%" /></a>
+
+**Question:** How did reported 'L' station entries vary across 2024–2025 by month, station, and CTA day type? Two Power BI pages show entry and station-day KPIs, year and station/day-type filters, a monthly trend, and a station ranking that cross-filters the trend. **Finding:** The validated 105,082 station-date records contain **225,706,465 entries**; 2025 exceeded 2024 by **8.57%**. Entries are not unique riders or trips, and station coverage varies. [Project](https://github.com/patelkautilya/cta-station-ridership-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/b00d9eed-9986-450c-9bd9-ef1127adc1b2/04fe2fbf008da1de0a2d?experience=power-bi) · [PDF](https://github.com/patelkautilya/cta-station-ridership-powerbi/blob/main/CTA_Station_Ridership_Report.pdf) · [Findings](https://github.com/patelkautilya/cta-station-ridership-powerbi/blob/main/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
