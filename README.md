@@ -132,6 +132,12 @@ Each project includes metric definitions, interactive report design, source attr
 
 **Question:** How did reported 'L' station entries vary across 2024–2025 by month, station, and CTA day type? Two Power BI pages show entry and station-day KPIs, year and station/day-type filters, a monthly trend, and a station ranking that cross-filters the trend. **Finding:** The validated 105,082 station-date records contain **225,706,465 entries**; 2025 exceeded 2024 by **8.57%**. Entries are not unique riders or trips, and station coverage varies. [Project](https://github.com/patelkautilya/cta-station-ridership-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/b00d9eed-9986-450c-9bd9-ef1127adc1b2/04fe2fbf008da1de0a2d?experience=power-bi) · [PDF](https://github.com/patelkautilya/cta-station-ridership-powerbi/blob/main/CTA_Station_Ridership_Report.pdf) · [Findings](https://github.com/patelkautilya/cta-station-ridership-powerbi/blob/main/FINDINGS.md)
 
+### Chicago business license activity | Issuance mix
+
+<a href="https://github.com/patelkautilya/chicago-business-license-activity-powerbi"><img src="https://raw.githubusercontent.com/patelkautilya/chicago-business-license-activity-powerbi/main/previews/activity_overview.png" alt="Chicago business license activity Power BI overview with issuance KPIs, monthly trend, application mix, and filters" width="100%" /></a>
+
+**Question:** How did issued license records vary across 2024–2025 by month, application type, license class, and community area? Two Power BI pages include KPI cards, year and type controls, a monthly trend, and ranked license and community views. **Finding:** The validated extract contains **64,377 license records**; 49,235 are renewals and 14,026 are initial-issue application records. These are license records, not unique businesses. [Project](https://github.com/patelkautilya/chicago-business-license-activity-powerbi) · [Power BI report (sign-in/access may be required)](https://app.powerbi.com/groups/e6426da3-9b36-4519-acf1-2434daa552ae/reports/a36c17fc-fb49-445b-8e44-dc446cfacf12/19d788469b7aae008dc1?experience=power-bi) · [PDF preview](https://github.com/patelkautilya/chicago-business-license-activity-powerbi/blob/main/previews/chicago_business_license_activity_preview.pdf) · [Findings](https://github.com/patelkautilya/chicago-business-license-activity-powerbi/blob/main/FINDINGS.md)
+
 ## Skills in practice
 
 | Area | Tools and methods |
